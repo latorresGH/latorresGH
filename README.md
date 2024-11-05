@@ -11,8 +11,8 @@
 
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
-🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
-🤔También cuento con conocimientos en desarrollo móvil en Androis Studio📱.
+🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻.
+🤔También cuento con conocimientos en desarrollo móvil en Android Studio📱.
 
 🧑‍🎓Siempre estoy abierto a nuevas oportunidades y `trabajos` 🚀.
 
