@@ -1,5 +1,11 @@
 ## ¡Bienvenidos! 👋
 
+👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el IES 🎓, con experiencia en Java, JavaScript, HTML, CSS, React, Next.js, MongoDB y MySQL (XAMPP) 💻.
+  También cuento con conocimientos en desarrollo móvil en Androis Studio📱.
+  
+  Siempre estoy abierto a nuevas oportunidades y trabajos 🚀.
+
+
 <div>
   <h3>¡Estas son mis skills!</h3>
 </div>
