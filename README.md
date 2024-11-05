@@ -3,6 +3,7 @@
 <img align="right" width=300px height=150px alt="side_sticker" src="https://i.imgur.com/LGtRokh.png" />
 👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
+<img align="right" width=300px height=600px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
 🤔También cuento con conocimientos en desarrollo móvil en Androis Studio📱.
   
@@ -11,7 +12,6 @@
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
 
-<img align="right" width=300px height=600px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 <br><br><br><br><br>
 <br><h1>Mis skills ⬇️</h1>
   
