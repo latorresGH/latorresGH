@@ -12,7 +12,7 @@
 
 ## Mis skills ⬇️
   
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev) 
 
 
 
