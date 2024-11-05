@@ -10,10 +10,11 @@
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
 
-## Mis skills
+## Mis skills ⬇️
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma)](https://skillicons.dev)
+##
 </div>
 
 
