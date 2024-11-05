@@ -19,7 +19,7 @@
 
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
-##
+<img align="left" width=170px height=170px src="https://wallpapers.com/images/hd/green-neon-lineon-white-background-m0rswsis1wkrfy0t-2.jpg"/>
 <h4>Mis skills ⬇️</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev) 
