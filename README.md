@@ -20,7 +20,7 @@
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
 ##
-<br><h4>Mis skills ⬇️</h4>
+<h4>Mis skills ⬇️</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev) 
 
