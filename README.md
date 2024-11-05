@@ -2,7 +2,7 @@
 
 <img align="left" width=250px height=250px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
 
-`Hola` <br> soy desarrolador Frontend, me llamo
+`ʜᴏʟᴀ` <br> soy desarrolador Frontend, me llamo
 <h4>Laureano</h4>
 
 👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
