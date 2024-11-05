@@ -3,7 +3,7 @@
 <img align="left" width=250px height=250px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
 
 <br><br><br>
-`ʜᴏʟᴀ` <br>  Soy desarrolador Frontend y mi nombre es <br> <span> `Laureano`</span>
+ `ʜᴏʟᴀ` <br>  Soy desarrolador Frontend y mi nombre es <br> <span> `Laureano`</span>
 
 
 👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
