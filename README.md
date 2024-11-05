@@ -16,7 +16,7 @@
 
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
-<br><br><br><br>
+<br><br>
 
 <br><h1>Mis skills ⬇️</h1>
   
