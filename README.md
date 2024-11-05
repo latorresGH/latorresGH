@@ -1,5 +1,10 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">¡Bienvenidos!</h1>
-<img align="right" width=300px height=150px alt="side_sticker" src="https://i.imgur.com/LGtRokh.png" />
+
+<img align="left" width=300px height=350px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
+<p>`ʜᴏʟᴀ`</p>
+<h4>Soy Laureano</h4>
+<p>FRONTEND Developer</p>
+
 👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
