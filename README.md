@@ -11,8 +11,8 @@
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
 
-<img align="left" width=100px height=100px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" /> <br>
-
+<img align="left" width=100px height=100px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />
+<br><br><br><br><br>
 <br><h1>Mis skills ⬇️</h1>
   
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev) 
