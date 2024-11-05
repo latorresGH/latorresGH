@@ -4,12 +4,12 @@
 🎨 Tengo preferencia en desarrollo `frontend` <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
 🤔También cuento con conocimientos en desarrollo móvil en Androis Studio📱.
-<img align="right" width=300px height=350px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />  
+
 🧑‍🎓Siempre estoy abierto a nuevas oportunidades y `trabajos` 🚀.
 
 
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
-
+<img align="right" width=300px height=350px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />  
 <br><br><br><br><br>
 <br><h1>Mis skills ⬇️</h1>
   
