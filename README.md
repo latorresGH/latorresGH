@@ -11,7 +11,7 @@
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
 
-<img align="left" width=300px height=150px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />
+<img align="left" width=200px height=200px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" /> <br>
 
 ## Mis skills ⬇️
   
