@@ -3,9 +3,9 @@
 <img align="left" width=170px height=170px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
 
 <br><br>
- `ʜᴏʟᴀ!` <br>  Soy desarrolador de software y mi nombre es <span> `Laureano`</span>
+ `ʜᴏʟᴀ!` <br>  Soy desarrolador de software y mi nombre es <span>`Laureano`</span>
 
-
+<br><br><br><br>
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
