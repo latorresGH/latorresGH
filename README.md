@@ -4,7 +4,7 @@
 
 <br><br>
  `ʜᴏʟᴀ!` <br>  Soy desarrolador de software y mi nombre es <span>`Laureano`</span>
-<img align="right" width=300px height=350px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />  
+
 <br><br><br><br>
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
