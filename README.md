@@ -9,8 +9,6 @@
 
 ## Contactame aqui:
 
-<li>
-
 <div>  
   <div>
     <a href="https://ar.linkedin.com/in/laureano-torres-4872a7296?trk=people-guest_people_search-card" target="_blank">
@@ -24,5 +22,4 @@
     </a>
   </div>
 </div>
-</li>
 
