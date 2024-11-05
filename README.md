@@ -5,9 +5,9 @@
 <br><br><br>
 <img align="right" width=200px height=250px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />  
  `ʜᴏʟᴀ!` <br>  Soy desarrolador de software y mi nombre es <span>`Laureano`</span>
+<br><br>
 ##
-<br><br><br><br><br>
-
+<br><br><br>
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
