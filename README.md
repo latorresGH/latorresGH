@@ -19,7 +19,6 @@
 
 💥 Podes ver mi sitio web `portfolio` <a href="proximamente">ACA</a>
 
-<br><br>
 ##
 <br><h4>Mis skills ⬇️</h4>
   
