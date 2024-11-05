@@ -2,6 +2,7 @@
 
 <img align="left" width=250px height=250px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
 
+<br><br><br><br><br>
 `ʜᴏʟᴀ` <br> soy desarrolador Frontend, me llamo
 <h4>Laureano</h4>
 
