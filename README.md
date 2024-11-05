@@ -6,7 +6,7 @@
 <img align="right" width=200px height=250px alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />  
  `ʜᴏʟᴀ!` <br>  Soy desarrolador de software. <br> mi nombre es <span>`Laureano`</span>
 <br><br><br>
-##
+<img align="right" width=200px height=250px alt="side_sticker" src="https://static.vecteezy.com/system/resources/previews/012/634/580/non_2x/art-deco-outline-stroke-in-golden-color-for-classy-and-luxury-style-premium-vintage-line-art-design-element-free-png.png" />  
 <br>
 
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
