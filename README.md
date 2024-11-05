@@ -1,6 +1,6 @@
 ## ¡Bienvenidos! 👋
 
-👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓
+👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻.
 🤔También cuento con conocimientos en desarrollo móvil en Androis Studio📱.
   
