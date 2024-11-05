@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">¡Bienvenidos!</h1>
 
 <img align="left" width=250px height=250px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
-`ʜᴏʟᴀ`
-`hola`
+
 <h4>Soy Laureano</h4>
 <p>FRONTEND Developer</p>
 
