@@ -7,7 +7,8 @@
  `ʜᴏʟᴀ!` <br>  Soy desarrolador de software y mi nombre es <span>`Laureano`</span>
 <br><br><br>
 ##
-<br><br>
+<br>
+
 👋 Soy estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
 🧑‍💻 Con experiencia en `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL` (XAMPP) 💻. <br>
