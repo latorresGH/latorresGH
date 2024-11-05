@@ -2,8 +2,8 @@
 
 <img align="left" width=250px height=250px alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />  
 
-<h4>Soy Laureano</h4>
-<p>FRONTEND Developer</p>
+`Hola` soy desarrolador Frontend, me llamo
+<h4>Laureano</h4>
 
 👋 ¡Hola! Soy un desarrollador estudiante próximo a recibir mi título en el `IES` 🎓 <br>
 🎨 Tengo preferencia en desarrollo `frontend` <br>
