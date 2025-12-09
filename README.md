@@ -17,7 +17,7 @@
 🧑‍🎓Siempre estoy abierto a nuevas oportunidades y `trabajos` 🚀.
 
 
-💥 Podes ver mi sitio web `portfolio` <a href="https://latorres.vercel.app/">ACA</a>
+💥 Podes ver mi sitio web `portfolio` <a href="https://latorres.vercel.app/">ACA</a> <- Le falta terminar aun
 
 
 <h4>Mis skills ⬇️</h4>
