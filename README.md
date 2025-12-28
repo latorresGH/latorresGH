@@ -13,10 +13,7 @@
 I'm a software developer. <br>
 My name is <span>Laureano</span>
 
-<br><br><br><br>
-
-
-<br><br>
+<br>
 
 👋 I’m a **Software Developer graduated** from  
 <a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a> 🎓  
