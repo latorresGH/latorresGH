@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img align="right" width="200px" height="250px" alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
+
 
 ʜᴇʟʟᴏ! <br>
 I'm a software developer. <br>
@@ -15,7 +15,6 @@ My name is <span>Laureano</span>
 
 <br><br><br><br>
 
-<img align="left" width="400px" height="35px" src="https://i.imgur.com/b1LbyEGg.jpg"/>
 
 <br><br>
 
@@ -26,6 +25,9 @@ My name is <span>Laureano</span>
 🧑‍💻 Experience with **Java, JavaScript, HTML, CSS, React, Next.js, MongoDB and MySQL (XAMPP)**  
 🚀 Recently worked on a **Spring Boot project**, learning and applying backend development concepts  
 📱 Also have knowledge in **mobile development with Android Studio**
+
+<br>
+<img align="right" width="200px" height="250px" alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 
 🧠 I’m always open to new opportunities and professional challenges.
 
