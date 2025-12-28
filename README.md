@@ -15,7 +15,7 @@
   <a href="mailto:vbim101@gmail.com">Email</a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #e5e7eb;" />
 
 ### 👨‍💻 About Me
 
@@ -41,7 +41,7 @@ Focused on frontend experience and backend integration.
 **Tech:** React · Next.js · Node.js · PostgreSQL
 
 
----
+<hr style="border: 0; height: 1px; background: #e5e7eb;" />
 
 ### 🧠 Tech Stack
 
