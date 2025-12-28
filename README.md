@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 Frontend-oriented developer focused on building clean, modern, and scalable web applications.
 
@@ -27,11 +27,19 @@ Frontend-oriented developer focused on building clean, modern, and scalable web 
 - 📱 Basic mobile development with **Android Studio**
 - 📚 Constantly learning and improving
 
----
 
-### 🚀 Featured Projects
-- **DevHub** – Developer tools manager (Next.js, Node, PostgreSQL)
-- **E-commerce App** – Cart, auth, orders (React + Express)
+### 🧩 Featured Projects
+
+**Nautical Dock Management System**  
+Web app for managing reservations, users and orders for a nautical dock.  
+Includes booking system, JWT auth, admin panel and e-commerce features.  
+**Tech:** Next.js · Node.js · PostgreSQL · JWT
+
+**Stickeando – E-commerce Platform**  
+Online store with product management, cart system and order handling.  
+Focused on frontend experience and backend integration.  
+**Tech:** React · Next.js · Node.js · PostgreSQL
+
 
 ---
 
