@@ -12,10 +12,24 @@
 🎓 Graduated in **Software Development** from  
 <a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a>
 
-🎨 Specialized in **Frontend Development**  
-🧑‍💻 Experience with **Java, JavaScript, HTML, CSS, React, Next.js, MongoDB and MySQL**  
-🚀 Recently worked on a **Spring Boot project**, strengthening my backend skills  
-📱 Basic experience in **mobile development with Android Studio**
+🎯 **Core Stack**  
+• JavaScript  
+• HTML & CSS  
+• React  
+• Next.js  
+• Astro  
+• PostgreSQL  
+• Vercel  
+
+🧑‍💻 **Experience with**  
+• Java  
+• MongoDB  
+• MySQL  
+• Node.js  
+• Spring Boot  
+• Android Studio  
+
+🚀 Recently worked on a **Spring Boot project**, strengthening my backend development skills.
 
 <img align="right" width="200px" height="250px" alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 
@@ -29,7 +43,7 @@ _(currently in development)_
 
 <h4>🛠 Tech Stack</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,postgres,vercel,nodejs,mongodb,java,androidstudio,figma,github)](https://skillicons.dev)
 
 ---
 
