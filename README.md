@@ -15,7 +15,7 @@
   <a href="mailto:vbim101@gmail.com">Email</a>
 </p>
 
-<hr style="border: 0; height: 0.5px; background: #ccc;" />
+
 
 
 ### 👨‍💻 About Me
