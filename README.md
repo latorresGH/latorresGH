@@ -40,8 +40,6 @@ _(still in progress)_
 
 </details>
 
----
-
 <details>
 <summary>🇪🇸 Español</summary>
 
