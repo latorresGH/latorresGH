@@ -1,76 +1,49 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  Welcome / ¡Bienvenidos!
+  Welcome!
 </h1>
 
-<img align="left" width="170px" height="170px" src="https://mustafagunaydin.dev/images/dev.gif" />
-<img align="right" width="200px" height="250px" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
+<img align="left" width="170px" height="170px" alt="side_sticker" src="https://mustafagunaydin.dev/images/dev.gif" />
+
+<br><br>
+
+<img align="right" width="200px" height="250px" alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
+
+ʜᴇʟʟᴏ! <br>
+I'm a software developer. <br>
+My name is <span>Laureano</span>
 
 <br><br><br><br>
 
-<details>
-<summary>🇪🇸 Español</summary>
+<img align="left" width="400px" height="35px" src="https://i.imgur.com/b1LbyEGg.jpg"/>
 
 <br>
 
-👋 ¡Hola! Soy **Laureano**, desarrollador de software.  
+👋 I’m a **Software Developer graduated** from  
+<a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a> 🎓  
 
-🎓 **Graduado en Desarrollo de Software** en el  
-<a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a>
+🎨 I specialize in **Frontend Development**  
+🧑‍💻 Experience with **Java, JavaScript, HTML, CSS, React, Next.js, MongoDB and MySQL (XAMPP)**  
+🚀 Recently worked on a **Spring Boot project**, learning and applying backend development concepts  
+📱 Also have knowledge in **mobile development with Android Studio**
 
-🎨 Me especializo en **desarrollo Frontend**  
-🧑‍💻 Experiencia con `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB` y `MySQL`  
-🚀 Recientemente desarrollé un **proyecto utilizando Spring Boot**, incorporando esta tecnología como parte de mi formación backend  
-📱 Conocimientos en desarrollo móvil con **Android Studio**
+🧠 I’m always open to new opportunities and professional challenges.
 
-🧠 Siempre estoy abierto a nuevas oportunidades y desafíos profesionales.
-
-💥 Portfolio:  
-👉 <a href="https://latorres.vercel.app/" target="_blank">PORTAFOLIO/</a>  
-_(en desarrollo)_
-
-</details>
-
-
-
-<details open>
-<summary>🇺🇸 English</summary>
-
-<br>
-
-👋 Hi! I'm **Laureano**, a Software Developer.
-
-🎓 **Graduated in Software Development** from  
-<a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a>
-
-🎨 Mainly focused on **Frontend Development**  
-🧑‍💻 Experience with `Java`, `JavaScript`, `HTML`, `CSS`, `React`, `Next.js`, `MongoDB`, and `MySQL`  
-🚀 Recently built a **project using Spring Boot**, adding backend experience with this technology  
-📱 Basic knowledge of mobile development using **Android Studio**
-
-🧠 Always open to new opportunities and professional challenges.
-
-💥 Portfolio:  
-👉 <a href="https://latorres.vercel.app/" target="_blank">PORTFOLIO/</a>  
+💥 You can check my portfolio here:  
+<a href="https://latorres.vercel.app/" target="_blank">https://latorres.vercel.app/</a>  
 _(still in progress)_
 
-</details>
-
----
-
-<h4>🚀 Skills</h4>
+<h4>My Skills ⬇️</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mongodb,postgres,nodejs,react,nextjs,androidstudio,figma,vscode,vercel,github,discord)](https://skillicons.dev)
 
----
-
-## 📫 Contact
+## Contact Me:
 
 <div>
-   <a href="https://ar.linkedin.com/in/laureano-torres-4872a7296" target="_blank">
-     <img src="https://img.shields.io/badge/linkedin-LINKEDIN-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="mailto:vbim101@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/gmail-GMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
+  <a href="https://ar.linkedin.com/in/laureano-torres-4872a7296" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-LINKEDIN-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vbim101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-GMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
