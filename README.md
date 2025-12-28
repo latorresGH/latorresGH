@@ -11,7 +11,7 @@
 
 🎓 Graduated in **Software Development** at  
 <a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a>
-
+<br>
 🚀 **Frontend-focused**, working mainly with  
 **JavaScript, HTML, CSS, React, Next.js, Astro & PostgreSQL**
 
