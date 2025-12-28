@@ -29,6 +29,12 @@ Frontend-oriented developer focused on building clean, modern, and scalable web 
 
 ---
 
+### 🚀 Featured Projects
+- **DevHub** – Developer tools manager (Next.js, Node, PostgreSQL)
+- **E-commerce App** – Cart, auth, orders (React + Express)
+
+---
+
 ### 🧠 Tech Stack
 
 <p align="center">
