@@ -6,7 +6,7 @@
 <img align="left" width="170px" height="170px" src="https://mustafagunaydin.dev/images/dev.gif" />
 <img align="right" width="200px" height="250px" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <details>
 <summary>🇪🇸 Español</summary>
@@ -31,7 +31,7 @@ _(en desarrollo)_
 
 </details>
 
----
+
 
 <details open>
 <summary>🇺🇸 English</summary>
