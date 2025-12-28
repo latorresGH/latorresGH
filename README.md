@@ -23,7 +23,6 @@ My name is <span>Laureano</span>
 🚀 Recently worked on a **Spring Boot project**, learning and applying backend development concepts  
 📱 Also have knowledge in **mobile development with Android Studio**
 
-<br>
 <img align="right" width="200px" height="250px" alt="side_sticker" src="https://preview.redd.it/e800hdn0rcx91.gif?width=512&auto=webp&s=588c2724942d11edb080ca7ec47c0077aa928e96" />
 
 🧠 I’m always open to new opportunities and professional challenges.
