@@ -22,7 +22,7 @@ My name is <span>Laureano</span>
 
 <img align="left" width="400px" height="35px" src="https://i.imgur.com/b1LbyEGg.jpg"/>
 
-<br>
+<br><br>
 
 👋 I’m a **Software Developer graduated** from  
 <a href="https://iessantafe.edu.ar/" target="_blank">IES Santa Fe</a> 🎓  
@@ -52,8 +52,6 @@ Soy desarrollador de software. <br>
 Mi nombre es <span>Laureano</span>
 
 <br><br><br><br>
-
-<img align="left" width="400px" height="35px" src="https://i.imgur.com/b1LbyEGg.jpg"/>
 
 <br>
 
