@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://latorres.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://latorresgh.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://ar.linkedin.com/in/laureano-torres-4872a7296" target="_blank">LinkedIn</a> •
   <a href="mailto:vbim101@gmail.com">Email</a>
 </p>
