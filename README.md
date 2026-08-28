@@ -31,7 +31,7 @@ Frontend-oriented developer focused on building clean, modern, and scalable web 
 
 ### 🧩 Featured Projects
 
-**AfterPanch – Food Service POS & Ordering Platform**
+**AfterPanch – Food Service POS & Ordering Platform** <br>
 Full-stack ordering and point-of-sale system for a food business, with public menu, real-time order monitor, admin panel and delivery management.
 Includes cookie-based JWT auth, live order updates via WebSockets, and stock/inventory control.
 **Tech**: NestJS · Next.js · Prisma · PostgreSQL · Socket.IO · Docker
