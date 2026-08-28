@@ -31,15 +31,15 @@ Frontend-oriented developer focused on building clean, modern, and scalable web 
 
 ### 🧩 Featured Projects
 
+**AfterPanch – Food Service POS & Ordering Platform**
+Full-stack ordering and point-of-sale system for a food business, with public menu, real-time order monitor, admin panel and delivery management.
+Includes cookie-based JWT auth, live order updates via WebSockets, and stock/inventory control.
+**Tech**: NestJS · Next.js · Prisma · PostgreSQL · Socket.IO · Docker
+
 **Nautical Dock Management System**  
 Web app for managing reservations, users and orders for a nautical dock.  
 Includes booking system, JWT auth, admin panel and e-commerce features.  
 **Tech:** Next.js · Node.js · PostgreSQL · JWT
-
-**Stickeando – E-commerce Platform**  
-Online store with product management, cart system and order handling.  
-Focused on frontend experience and backend integration.  
-**Tech:** React · Next.js · Node.js · PostgreSQL
 
 
 <hr style="border: 0; height: 0.5px; background: #ccc;" />
